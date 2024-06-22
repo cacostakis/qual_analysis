@@ -1,3 +1,13 @@
 ---
-
+title: Qual analysis
+author: cacostakis
+output: html document
+email: ccostakis@poverty-action.org
+github_repo: https://cacostakis.github.io/qual_analysis/
 ---
+
+# Qual analysis header
+
+
+
+
